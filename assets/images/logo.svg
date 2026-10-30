@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="neonVoltGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="50%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Outer Ring Base -->
+  <circle cx="256" cy="256" r="246" fill="url(#shieldGrad)" stroke="url(#neonVoltGrad)" stroke-width="12" />
+  <circle cx="256" cy="256" r="226" fill="none" stroke="rgba(255, 255, 255, 0.15)" stroke-width="2" stroke-dasharray="6,6" />
+
+  <!-- Dynamic Angular Shield -->
+  <polygon points="256,65 410,135 410,285 256,435 102,285 102,135" fill="#0b1120" stroke="url(#goldGrad)" stroke-width="6" />
+
+  <!-- Barbell Graphic -->
+  <!-- Left Weight Plates -->
+  <rect x="135" y="210" width="16" height="92" rx="4" fill="url(#neonVoltGrad)" />
+  <rect x="157" y="222" width="14" height="68" rx="3" fill="url(#neonVoltGrad)" />
+  <rect x="177" y="234" width="10" height="44" rx="2" fill="url(#neonVoltGrad)" />
+  <!-- Barbell Shaft -->
+  <rect x="187" y="250" width="138" height="12" rx="3" fill="#ffffff" />
+  <!-- Knurling pattern on bar -->
+  <line x1="210" y1="250" x2="210" y2="262" stroke="#0f172a" stroke-width="2" />
+  <line x1="230" y1="250" x2="230" y2="262" stroke="#0f172a" stroke-width="2" />
+  <line x1="282" y1="250" x2="282" y2="262" stroke="#0f172a" stroke-width="2" />
+  <line x1="302" y1="250" x2="302" y2="262" stroke="#0f172a" stroke-width="2" />
+  <!-- Right Weight Plates -->
+  <rect x="325" y="234" width="10" height="44" rx="2" fill="url(#neonVoltGrad)" />
+  <rect x="341" y="222" width="14" height="68" rx="3" fill="url(#neonVoltGrad)" />
+  <rect x="361" y="210" width="16" height="92" rx="4" fill="url(#neonVoltGrad)" />
+
+  <!-- Monogram PFS -->
+  <text x="256" y="195" font-family="'Inter', 'Montserrat', 'Helvetica', sans-serif" font-weight="900" font-size="54" fill="#ffffff" text-anchor="middle" letter-spacing="4">PFS</text>
+
+  <!-- Star Emblems -->
+  <polygon points="256,310 262,328 280,328 266,339 271,357 256,346 241,357 246,339 232,328 250,328" fill="url(#goldGrad)" />
+  <polygon points="216,320 220,332 232,332 222,340 226,352 216,344 206,352 210,340 200,332 212,332" fill="url(#goldGrad)" transform="scale(0.85) translate(40, 50)" />
+  <polygon points="296,320 300,332 312,332 302,340 306,352 296,344 286,352 290,340 280,332 292,332" fill="url(#goldGrad)" transform="scale(0.85) translate(40, 50)" />
+
+  <!-- Subtitle Ribbon -->
+  <text x="256" y="390" font-family="'Inter', 'Montserrat', 'Helvetica', sans-serif" font-weight="800" font-size="20" fill="url(#neonVoltGrad)" text-anchor="middle" letter-spacing="6">PREMIUM FITNESS</text>
+  <text x="256" y="415" font-family="'Inter', 'Montserrat', 'Helvetica', sans-serif" font-weight="700" font-size="14" fill="#94a3b8" text-anchor="middle" letter-spacing="4">STUDIO • SANTOSHPUR</text>
+</svg>

@@ -1,0 +1,33 @@
+# PREMIUM FITNESS STUDIO (PFS GYM) - Brand Identity & Design System
+
+## 1. Brand Concept & Ethos
+- Brand Name: PREMIUM FITNESS STUDIO (PFS Gym Santoshpur)
+- Sector: High-Performance Fitness Center, Strength Training & Body Transformation Studio
+- Locality: 129/1, Santoshpur Avenue (Near Santoshpur Lake Bus Stop, Rashmoni Bagan), Santoshpur, Kolkata, West Bengal 700075
+- Primary Phone & WhatsApp: +91 89104 46703 (Verified Google Listing Direct Contact)
+- Secondary / Studio Management: +91 99030 50974 (Verified Sheet & Directory Phone)
+- Google Maps Rating: 4.6 Stars (259+ Verified Member Reviews)
+- Operating Hours: Tuesday to Sunday: 6:00 AM – 10:00 PM | Monday: Closed
+- Architectural & Training Ethos: Modern, spacious, high-energy environment equipped with aligned bio-mechanical machinery, Olympic free weights, dedicated cardio deck, and personalized body composition / nutrition coaching.
+
+## 2. Color Mood & Harmony (Strictly Clean Modern Luxury - Zero Muddy Brown)
+- Pure Porcelain Canvas: #f8fafc (Clean, breathable, vibrant modern foundation)
+- Crisp Pure White Cards: #ffffff (High-elevation card surfaces with layered soft drop-shadows)
+- Electric Neon Volt Accent: #10b981 / #059669 (High-vitality athletic emerald & energy green)
+- Cyber Gold / Amber Beacon: #f59e0b / #d97706 (Premium membership prestige & dynamic vitality)
+- Midnight Obsidian Contrast: #0f172a / #1e293b (Deep obsidian surfaces & razor-sharp typography)
+- Frosted Glass Floating Navbar: rgba(255, 255, 255, 0.94) with 1px solid rgba(16, 185, 129, 0.2)
+- Official WhatsApp Green: #25D366 (High contrast on green buttons: white speech bubble + green phone handset)
+
+## 3. Core Training & Fitness Pillars
+1. Elite Strength & Hypertrophy: Heavy Olympic barbells, power racks, plate-loaded machines, and dumbbells up to 40kg.
+2. Functional Conditioning & HIIT: Kettlebells, battle ropes, plyometric boxes, and core stamina circuits.
+3. Advanced Cardiovascular Deck: High-performance treadmills, elliptical trainers, and spin cycles with biometric tracking.
+4. 1-on-1 Personal Training: Certified trainers tailoring custom periodized lifting programs and progressive overload routines.
+5. Bespoke Diet & Nutrition Guidance: Personalized macronutrient breakdowns, body transformation plans, and continuous body fat telemetry.
+6. Corporate Wellness & Group Memberships: Flexible corporate packages and group fitness conditioning.
+
+## 4. 16:9 Hero Video Summary
+- Video Location: assets/videos/hero.mp4
+- Poster Location: assets/images/hero-poster.jpg
+- Description: 16:9 cinematic landscape showcasing intense strength training, gleaming barbells, and modern equipment in the spacious, brightly illuminated studio floor in Santoshpur, Kolkata.

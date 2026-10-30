@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="neonVolt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="62" fill="url(#bgGrad)" stroke="#10b981" stroke-width="4" />
+  <polygon points="64,18 102,36 102,74 64,110 26,74 26,36" fill="#0b1120" stroke="#f59e0b" stroke-width="3" />
+  <text x="64" y="74" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-size="34" fill="#ffffff" text-anchor="middle">PFS</text>
+</svg>
